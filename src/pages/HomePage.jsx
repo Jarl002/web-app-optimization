@@ -1,6 +1,6 @@
 import reactRouterLogo from "../assets/example.svg";
 
-const publicLogoUrl = `${import.meta.env.BASE_URL}logo.webp`;
+const publicLogoUrl = `${import.meta.env.BASE_URL}a7003fe3da98fcc7670ceb8ba300cf76.jpg`;
 
 export default function HomePage() {
   return (
